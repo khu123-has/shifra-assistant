@@ -22,6 +22,8 @@ technology used
 3.JavaScript (Vanilla JS) – Core logic for assistant features.
 
 4.Web Speech API – For speech recognition & speech synthesis.
+
+project structure
 ├── index.html        # Main page  
 ├── style.css         # Stylesheet  
 ├── script.js         # Virtual Assistant logic  
